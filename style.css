@@ -36,7 +36,7 @@ body {
   z-index: 1;
 }
 
-.animated_card:hover::before {
+.animated_card::before {
   content: "";
   position: absolute;
   height: 150%;
